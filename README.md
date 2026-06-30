@@ -1,4 +1,4 @@
-# 💫 About Me:
+#   About Me:
 🚀 **Aspiring Full-Stack Web Developer | Problem Solver**  
 💻 C++ | Exploring AI/ML | Grinding DSA & building real-world projects  
 🌱 BCA Student at GTU
